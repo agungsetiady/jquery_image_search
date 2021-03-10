@@ -1,5 +1,7 @@
 ## Example
 
+![alt text](https://github.com/agungsetiady/jquery_image_search/tree/master/img/demo.png?raw=true)
+
 Example:
 ```js
 <div class="containerItems">
